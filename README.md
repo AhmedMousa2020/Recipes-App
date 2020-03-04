@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Recipes for food
+# Recipes App for food by Reactjs
 ## Available Scripts
 
 In the project directory, you can run:
